@@ -1,2 +1,2 @@
-# Task-2-Stock-Price-Forecasting
-Data Science Internship Task-2-Stock-Price-Forecasting
+# Task-2-Credit Risk Prediction 
+Data Science Internship Task-2-Credit Risk Prediction using Loan Prediction Dataset
